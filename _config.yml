@@ -81,9 +81,6 @@ analytics:
   google:
     tracking_id          :
 
-sidebar:
-  nav: "docs"
-
 # Site Author
 author:
   name             : "VisAnPy"
