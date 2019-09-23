@@ -5,8 +5,8 @@ main:
   - title: "Projects"
     url: /proojects/
   children:  
-      -title: "inside"
-       url: /inside/
+    -title: "inside"
+    url: /inside/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
