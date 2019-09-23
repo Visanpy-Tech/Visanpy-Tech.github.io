@@ -29,7 +29,7 @@ comments:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          :   "dark" #"light" (default),
+    colorscheme          :   "dark" (default) #"light" (default),
 staticman:
   allowedFields          : # ['name', 'email', 'url', 'message']
   branch                 : # "master"
@@ -86,7 +86,7 @@ analytics:
 author:
   name             : "VisAnPy"
   avatar           : "/images/logo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Science Portfolio"
+  bio              : "Projects"
   location         : "Serbia"
   email            : 
   uri              :
