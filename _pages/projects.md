@@ -1,9 +1,17 @@
 ---
+---
+
+@import "{{ site.theme }}";
+
+---
 title: "Projects"
 permalink: /projects/
+
 header:
   image: "/images/lupa.png"
 ---
+
+
 
 * [Car Analysis](http://github.com/barryclark/jekyll-now/)
 + [Realestate](http://github.com/barryclark/jekyll-now/)
