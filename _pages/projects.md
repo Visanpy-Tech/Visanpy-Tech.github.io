@@ -9,7 +9,9 @@ header:
 ****
 <table>
   <tr>
-    <td><a href="../html-link.htm"><img src="/images/cars_sales.png" title="Used Cars Statistics" alt="Statistics"></a></td>
+    <td><figure><a href="../html-link.htm"><img src="/images/cars_sales.png" title="Used Cars Statistics" alt="Statistics"></a><figure>
+     <figcaption>Used Cars Statistics.</figcaption>
+    </td>
     <td><a href="../html-link.htm"><img src="/images/kuca.png"  title="Realestate Statistics" alt="Statistics"></a></td>
     <td><a href="../html-link.htm"><img src="/images/posao.png"  title="Indeed jobs analytics" alt="Indeed"></a></td>
   </tr>
