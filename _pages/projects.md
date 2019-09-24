@@ -5,6 +5,6 @@ header:
   image: "/images/zakim.jpg"
 ---
 
-* [Car Analysis](http://github.com/barryclark/jekyll-now/).
-+ [Realestate](http://github.com/barryclark/jekyll-now/).
-- [DataScience technologies at indeed](http://github.com/barryclark/jekyll-now/).
+* [Car Analysis](http://github.com/barryclark/jekyll-now/)
++ [Realestate](http://github.com/barryclark/jekyll-now/)
+- [Data Science technologies](http://github.com/barryclark/jekyll-now/)
