@@ -5,10 +5,6 @@ permalink: /projects/
 header:
   image: "/images/lupa.png"
 ---
----
----
-
-@import "{{ site.theme }}";
 
 
 
