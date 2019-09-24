@@ -11,7 +11,7 @@ header:
 
 
 
-<table border-collapse:separate; border-spacing:5em;>
+<table>
   <caption>Projects</caption>
   <tr>
     <td><a href="../html-link.htm"><img src="/images/logo.png" width=250 title="White flower" alt="Flower"></a></td>
