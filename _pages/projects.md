@@ -7,7 +7,6 @@ header:
 ---
 
 <table>
-  <caption>Projects</caption>
   <tr>
     <td><a href="../html-link.htm"><img src="/images/cars_sales.png" title="Used Cars Statistics" alt="Statistics"></a></td>
     <td><a href="../html-link.htm"><img src="/images/kuca.png"  title="Realestate Statistics" alt="Statistics"></a></td>
