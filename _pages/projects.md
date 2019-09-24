@@ -2,7 +2,7 @@
 title: "Projects"
 permalink: /projects/
 header:
-  image: "/images/zakim.jpg"
+  image: "/images/binnary.png"
 ---
 
 * [Car Analysis](http://github.com/barryclark/jekyll-now/)
