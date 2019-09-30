@@ -7,7 +7,7 @@ header:
 ---
 ----
 ****
-<table style="width:300;height:300>
+<table>
   <tr>
     <td><figure><a href="https://github.com/Visanpy-Tech/cars"><img src="/images/cars_sales.png" title="Used Cars Statistics Code Repository" alt="Statistics"></a>
      <figcaption>Used Cars Statistics.</figcaption></figure>
