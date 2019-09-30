@@ -16,9 +16,13 @@ header:
     <td><figure><a href="../html-link.htm"><img src="/images/kuca.png" title="Realstates Statistics" alt="Realestates"></a>
      <figcaption>Realestate Statistics.</figcaption></figure>
     </td>
-    <td><figure><a href="../html-link.htm"><img src="/images/posao.png" title="Indeed Statistics" alt="Statistics"></a>
-     <figcaption>Datascience Tecnologies.</figcaption></figure>
+    
+    <td><figure><a href="../html-link.htm"><img src="/images/posao.png" title="Indeed Statistics" 
+alt="Statistics"></a>
+     <figcaption>Datascience</figcaption></figure>
     </td>
+    
+    
   </tr>
   <tr>
    <td><a href="../html-link.htm"><img src="/images/placeholder.png" title="White flower" alt="Flower"></a></td>
