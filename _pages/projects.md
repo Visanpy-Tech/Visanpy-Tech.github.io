@@ -4,7 +4,7 @@ permalink: /projects/
 
 header:
  
-  (/imgages/lupa.png){:height="100%" width="50%"}
+
 ---
 ----
 ****
