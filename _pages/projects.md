@@ -3,7 +3,7 @@ title: "Projects"
 permalink: /projects/
 
 header:
-  image: "/images/lupa.png"
+  image: "/images/lupa.png" <!-- .element height="50%" width="50%" -->
 ---
 ----
 ****
