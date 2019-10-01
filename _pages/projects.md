@@ -4,7 +4,7 @@ permalink: /projects/
 
 header:
  
-  ![test image size](/imgages/lupa.png){:height="50%" width="50%"}
+  (/imgages/lupa.png){:height="50%" width="50%"}
 ---
 ----
 ****
