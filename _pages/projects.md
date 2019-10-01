@@ -3,7 +3,8 @@ title: "Projects"
 permalink: /projects/
 
 header:
-  image: "/images/lupa.png" <!-- .element height="50%" width="50%" -->
+ 
+  ![test image size](/imgages/lupa.png){:height="50%" width="50%"}
 ---
 ----
 ****
