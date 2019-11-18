@@ -14,8 +14,8 @@ header:
      <figcaption>Used Cars Statistics.</figcaption></figure>
     </td>
 
-    <td><figure><a href="../html-link.htm"><img src="/images/kuca.png" title="Realstates Statistics" alt="Realestates"></a>
-     <figcaption>Realestate Statistics.</figcaption></figure>
+    <td><figure><a href="https://github.com/Visanpy-Tech/housing-predictions"><img src="/images/kuca.png" title="Realstate Machine Learning" alt="Realestate Machine Learning"></a>
+     <figcaption>Realestate</figcaption></figure>
     </td>
     
     <td><figure><a href="../html-link.htm"><img src="/images/posao.png" title="Indeed Statistics" 
